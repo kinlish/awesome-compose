@@ -25,6 +25,5 @@ services:
 volumes:
   db_data:
   git_data:
-  
-  
+   
     
